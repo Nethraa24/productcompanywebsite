@@ -522,8 +522,9 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![image](https://github.com/Nethraa24/productcompanywebsite/assets/121215786/2e9ddde8-50d6-4473-aded-ca1dfcdc6e07)
+
 ![image](https://github.com/Nethraa24/productcompanywebsite/assets/121215786/d68d0d23-7671-455d-b2cd-759efe76c217)
+![image](https://github.com/Nethraa24/productcompanywebsite/assets/121215786/2e9ddde8-50d6-4473-aded-ca1dfcdc6e07)
 ![image](https://github.com/Nethraa24/productcompanywebsite/assets/121215786/02b1acdb-7e4a-4770-8a64-a159f3937b0e)
 ![image](https://github.com/Nethraa24/productcompanywebsite/assets/121215786/3bdb4097-9229-4149-9f53-8984d4b591e0)
 
